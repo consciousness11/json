@@ -3,8 +3,54 @@
    
       "tab": [
         {
-          "@label": "aaa",
-          "@color": "#ff0000",
+          "@label": "topics",
+          "@color": "#F35F5C",
+          "item": [
+            {
+              "@img": "111.jpg",
+              "@src": "https://www.cnet.com/",
+              "#text": "first news data , test1"
+            },
+            {
+              "@img": "222.jpg",
+              "@src": "https://www.cnet.com/",
+              "#text": "second news data"
+            }
+          ]
+        },
+        {
+          "@label": "recommend",
+          "@color": "#F1DA55",
+          "item": [
+            {
+              "@img": "333.jpg",
+              "@src": "https://www.cnet.com/",
+              "#text": "first data for second tab"
+            },
+            {
+              "@img": "444.jpg",
+              "@src": "https://www.cnet.com/",
+              "#text": "second data for second tab"
+            },
+			{
+          "@label": "trend",
+          "@color": "#58F28C",
+          "item": [
+            {
+              "@img": "111.jpg",
+              "@src": "https://www.cnet.com/",
+              "#text": "first news data , test1"
+            },
+            {
+              "@img": "222.jpg",
+              "@src": "http://222.html",
+              "#text": "second news data"
+            }
+          ]
+        },
+		{
+          "@label": "politics",
+          "@color": "#59D8F2",
           "item": [
             {
               "@img": "111.jpg",
@@ -18,20 +64,39 @@
             }
           ]
         },
-        {
-          "@label": "bbb",
-          "@color": "#00ff00",
+		{
+          "@label": "beginner",
+          "@color": "#5E74F4",
           "item": [
             {
-              "@img": "333.jpg",
-              "@src": "http://333.html",
-              "#text": "first data for second tab"
+              "@img": "111.jpg",
+              "@src": "http://111.html",
+              "#text": "first news data , test1"
             },
             {
-              "@img": "444.jpg",
-              "@src": "http://444.html",
-              "#text": "second data for second tab"
+              "@img": "222.jpg",
+              "@src": "http://222.html",
+              "#text": "second news data"
             }
+          ]
+        },
+		{
+          "@label": "popular",
+          "@color": "#C259F4",
+          "item": [
+            {
+              "@img": "111.jpg",
+              "@src": "http://111.html",
+              "#text": "first news data , test1"
+            },
+            {
+              "@img": "222.jpg",
+              "@src": "http://222.html",
+              "#text": "second news data"
+            }
+          ]
+        }
+				
           ]
         }
       ]
