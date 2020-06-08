@@ -1,7 +1,4 @@
-{
-  
-   
-      "tab": [
+{   "tab": [
         {
           "@label": "topics",
           "@color": "#F35F5C",
@@ -31,7 +28,8 @@
               "@img": "444.jpg",
               "@src": "https://www.cnet.com/",
               "#text": "second data for second tab"
-            },
+            } ]
+        },
 			{
           "@label": "trend",
           "@color": "#58F28C",
@@ -47,7 +45,8 @@
               "#text": "second news data"
             }
           ]
-        },
+        }
+		,
 		{
           "@label": "politics",
           "@color": "#59D8F2",
@@ -96,10 +95,5 @@
             }
           ]
         }
-				
           ]
         }
-      ]
-  
-  
-}
